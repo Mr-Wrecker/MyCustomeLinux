@@ -1,0 +1,28 @@
+
+Customize Config:
+- GTK Theme
+	.McOs-MJV-Gn3.32-v2.1
+	cp /usr/share/themes
+	
+- Icon Pack
+	.Icons/01-McMojave-circle
+	cp /usr/share/icons
+	
+- Shell
+	.shell/mcOS11-Shell
+	.shell/Orchis/Orchis-dark-compact
+	cp /home/mruser/.themes
+	
+- Plank
+	./Plank/mcOS-BS-White-MOD-NS
+	cp /usr/share/plank/themes
+	
+	
+- Hide Shell Top Bar
+	https://extensions.gnome.org/extension/545/hide-top-bar/
+	
+	
+	
+Expired!!!
+- Hide Doc X in Application Menu
+	https://extensions.gnome.org/extension/805/hide-dash/

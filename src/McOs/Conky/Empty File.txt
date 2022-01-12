@@ -1,0 +1,22 @@
+install conky-all
+add-apt-repository ppa:mark-pcnetspec/conky-manager-pm9
+install conky-manager
+Cp Extracted Files To ~/.conky/
+
+
+
+
+
+install conky_orange
+copy files
+- conkyrc_orange
+- conky_orange.lua
+in ~/.conky/
+
+uniq lauch
+open a terminal :
+conky -c ~/.conky/conkyrc_orange
+
+kill lauch
+open a terminal :
+killall conky
